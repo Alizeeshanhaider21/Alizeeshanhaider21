@@ -72,9 +72,17 @@ ComputerScience, Maths, Chemistry & Physics
 **Web Design and Development**
 
 - E-Commerce Websites (Front End)
-1.   AZ-Shop         2.   MyStore         3.   Calligraphy purchased         4.   Maso_shop         5.   Landing page for Pizza shop
-6.   Landing page for Airplane company       7.   Contact Forms              8.   Parcel/Luggage management System        
-9.   Signup/Login Pages           10.  Hospital Management System            11.    WordPress E-commerce Websites
+        - AZ-Shop       
+        - MyStore      
+        - Calligraphy purchased       
+        - Maso_shop     
+        - Landing page for Pizza shop
+        - Landing page for Airplane company       
+        - Contact Forms              
+        - Parcel/Luggage management System        
+        - Signup/Login Pages     
+        - Hospital Management System           
+        - WordPress E-commerce Websites
 
 **👨‍💻Skill Sets**
 
@@ -108,16 +116,19 @@ ComputerScience, Maths, Chemistry & Physics
 
 **🎓Activities | Awards & Honor**
 
-Head CR at Department of CS & IT - University of Sargodha                     2018-2022                                                           
+- Head CR at Department of CS & IT - University of Sargodha                     2018-2022                                                           
 
-Member of Event Management Society- University of Sargodha                    2013-2017                                
+- Member of Event Management Society- University of Sargodha                    2013-2017                                
 
-Recipe Ingredient Ontology
-- Created and developed a perfect ontology for Chef's recipes and especially how they are represented  on the web.
+- Recipe Ingredient Ontology
+        - Created and developed a perfect ontology for Chef's recipes and especially how they are represented  on the web.
 
 **Interest**
 
-Reading, playing pc games, volunteering in university events, Planting.
+- Reading
+- Playing pc games
+- Planting
+- Volunteering in university events
 
 
 
