@@ -37,9 +37,39 @@ ComputerScience, Maths, Chemistry & Physics
 
 **🗞Projects Experience**
 
-- Website Design & Development
+- Departmental Project
 
-- Ontology & Knowledge Graph
+**Recipe Knowledge Graph**
+
+- Ontology Populate (using scripting)         
+- RDF triples of Given Ontology
+- Knowledge Graph of Given Ontology
+
+**Object Oriented Analysis and Design**
+
+- Design document of Library Management System
+
+**Database Systems**
+
+- E-Commerce Websites (Admin panel)
+1.	AZ-Shop         2.   MyStore        3.   Calligraphy purchased     4.   Maso_shop
+5.  Room Booking System     6.  Blood Donation System     7.  Hospital Management System
+
+**Software Project Management **
+
+- E-Voting 
+
+**Multimedia**
+
+- Voice Converter using C#                
+- MATLAB Image Processing Certificate
+
+**Web Design and Development**
+
+- E-Commerce Websites (Front End)
+1.   AZ-Shop         2.   MyStore         3.   Calligraphy purchased         4.   Maso_shop         5.   Landing page for Pizza shop
+6.   Landing page for Airplane company       7.   Contact Forms              8.   Parcel/Luggage management System        
+9.   Signup/Login Pages           10.  Hospital Management System            11.    WordPress E-commerce Websites
 
 **👨‍💻Skill Sets**
 
@@ -71,12 +101,19 @@ ComputerScience, Maths, Chemistry & Physics
 - Teamwork Skills
 - Communication Skills
 
-**🎓Awards & Honor**
+**🎓Activities | Awards & Honor**
 
-Award as the best Head Cr of Department of  CS&IT  2022
+Head CR at Department of CS & IT - University of Sargodha                     2018-2022                                                           
+
+Member of Event Management Society- University of Sargodha                    2013-2017                                
 
 Recipe Ingredient Ontology
 - Created and developed a perfect ontology for Chef's recipes and especially how they are represented  on the web.
+
+**Interest**
+
+Reading, playing pc games, volunteering in university events, Planting.
+
 
 
 
