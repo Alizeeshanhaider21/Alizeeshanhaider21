@@ -147,13 +147,15 @@ Teaching Experience
 
         - Created and developed a perfect ontology for Chef's recipes and especially how they are represented  on the web.
 
-**Interest**
+**🎍Interest**
 
 - Reading
 - Playing pc games
 - Planting
 - Volunteering in university events
 
+**🏏Sports**
+- Cricket Player🥇
 
 
 
