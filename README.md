@@ -37,8 +37,9 @@ ComputerScience, Maths, Chemistry & Physics
 
 **🗞Projects Experience**
 
-Website Design & Development
-Ontology & Knowledge Graph
+- Website Design & Development
+
+- Ontology & Knowledge Graph
 
 **👨‍💻Skill Sets**
 
