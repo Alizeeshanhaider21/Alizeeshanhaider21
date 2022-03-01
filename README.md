@@ -24,15 +24,19 @@
 
 University of Sargodha, Sargodha    2018 - 2022   BS ComputerScience    3.31 cgpa - 1st Division
 -  Recepie Project  | ontology creation, extraction, visualization
+
 Army Public School and College, Sargodha Cantt.   2015 - 2017   FSC | Pre-Engineering   84% - 1st Division
+
 Army Public School and College, Chunian Cantt. (Kasur)    2013 - 2015   Matric ComputerScience    86% - 1st Division
 
 **💻Work History**
+
 Teaching Experience
 7+ years of experience 
 ComputerScience, Maths, Chemistry & Physics
 
 **🗞Projects Experience**
+
 Website Design & Development
 Ontology & Knowledge Graph
 
@@ -65,6 +69,7 @@ Ontology & Knowledge Graph
 **🎓Awards & Honor**
 
 Award as the best Head Cr of Department of  CS&IT  2022
+
 Recipe Ingredient Ontology
 - Created and developed a perfect ontology for Chef's recipes and especially how they are represented  on the web.
 
