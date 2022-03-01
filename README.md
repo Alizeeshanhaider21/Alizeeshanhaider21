@@ -52,8 +52,13 @@ ComputerScience, Maths, Chemistry & Physics
 **Database Systems**
 
 - E-Commerce Websites (Admin panel)
-1.	AZ-Shop         2.   MyStore        3.   Calligraphy purchased     4.   Maso_shop
-5.  Room Booking System     6.  Blood Donation System     7.  Hospital Management System
+    - AZ-Shop
+    - MyStore  
+    - Calligraphy purchased    
+    - Maso_shop
+    - Room Booking System    
+    - Blood Donation System    
+    - Hospital Management System
 
 **Software Project Management **
 
