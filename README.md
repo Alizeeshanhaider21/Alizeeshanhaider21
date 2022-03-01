@@ -80,17 +80,17 @@ Teaching Experience
 **Web Design and Development**
 
 - E-Commerce Websites (Front End)
-        - AZ-Shop       
-        - MyStore         
-        - Maso_shop       
-        - Contact Forms                    
-        - Signup/Login Pages
-        - Calligraphy purchased      
-        - Hospital Management System
-        - Landing page for Pizza shop            
-        - WordPress E-commerce Websites
-        - Parcel/Luggage management System 
-        - Landing page for Airplane company  
+     - AZ-Shop       
+     - MyStore         
+     - Maso_shop       
+     - Contact Forms                    
+     - Signup/Login Pages
+     - Calligraphy purchased      
+     - Hospital Management System
+     - Landing page for Pizza shop            
+     - WordPress E-commerce Websites
+     - Parcel/Luggage management System 
+     - Landing page for Airplane company  
 
 **👨‍💻Skill Sets**
 
