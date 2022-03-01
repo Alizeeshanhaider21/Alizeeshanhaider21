@@ -21,6 +21,7 @@
 - 💥 Fun Fact - Don't Disturb me - TikTok Only
 - 🎂 Date of Birth - October 05, 1998
 - 🌐 Languages:
+        
         Native: Urdu
         Fluent in English
 
