@@ -33,6 +33,7 @@ Army Public School and College, Chunian Cantt. (Kasur)    2013 - 2015   Matric C
 
 Teaching Experience
 7+ years of experience 
+
 ComputerScience, Maths, Chemistry & Physics
 
 **🗞Projects Experience**
@@ -60,7 +61,7 @@ ComputerScience, Maths, Chemistry & Physics
     - Blood Donation System    
     - Hospital Management System
 
-**Software Project Management **
+**Software Project Management**
 
 - E-Voting 
 
