@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... Goal oriented Instituition
 - 📫 How to reach me ... alizeeshanhaider21@gmail.com
 
-**** Profile****
+**Profile**
+
 - I am a BSCS holder, coordinating and monitoring CS-based projects. 
 - I have a strong interest in conceptual and analytical thinking. I can teach all Computer science subjects. 
 - My aim is to provide my students with exactly what they want and guide them throughout the process. 
@@ -20,6 +21,7 @@
 - 💥 Fun Fact - Don't Disturb me - TikTok Only
 
 **📙Educational Background**
+
 University of Sargodha, Sargodha    2018 - 2022   BS ComputerScience    3.31 cgpa - 1st Division
 -  Recepie Project  | ontology creation, extraction, visualization
 Army Public School and College, Sargodha Cantt.   2015 - 2017   FSC | Pre-Engineering   84% - 1st Division
@@ -61,6 +63,7 @@ Ontology & Knowledge Graph
 -Communication Skills
 
 **🎓Awards & Honor**
+
 Award as the best Head Cr of Department of  CS&IT  2022
 Recipe Ingredient Ontology
 - Created and developed a perfect ontology for Chef's recipes and especially how they are represented  on the web.
