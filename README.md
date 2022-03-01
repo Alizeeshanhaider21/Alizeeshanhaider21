@@ -23,15 +23,18 @@
 **📙Educational Background**
 
 - University of Sargodha, Sargodha    2018 - 2022   
-    BS ComputerScience    3.31 cgpa - 1st Division
+        
+        BS ComputerScience    3.31 cgpa - 1st Division
     
-    Recepie Project  | ontology creation, extraction, visualization
+            Recepie Project  | ontology creation, extraction, visualization
 
 - Army Public School and College, Sargodha Cantt.   2015 - 2017   
-    FSC | Pre-Engineering   84% - 1st Division
+        
+        FSC | Pre-Engineering   84% - 1st Division
 
 - Army Public School and College, Chunian Cantt. (Kasur)    2013 - 2015   
-    Matric ComputerScience    86% - 1st Division
+        
+        Matric ComputerScience    86% - 1st Division
 
 **💻Work History**
 
