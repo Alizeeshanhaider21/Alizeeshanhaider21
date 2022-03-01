@@ -44,28 +44,32 @@ ComputerScience, Maths, Chemistry & Physics
 **👨‍💻Skill Sets**
 
 📔Microsoft Office
--Word
--Excel
--PowerPoint
--Access
--OneNote
+
+- Word
+- Excel
+- PowerPoint
+- Access
+- OneNote
 
 💾Programming
--C++
--SQL | PHP
--HTML5 | JQuery
--CSS3 | JavaScript
--Bootstrap
+
+- C++
+- SQL | PHP
+- HTML5 | JQuery
+- CSS3 | JavaScript
+- Bootstrap
 
 👨‍💻Web &Multimedia
--Website Design
--WordPress | PS
--E-Commerce
+
+- Website Design
+- WordPress | PS
+- E-Commerce
 
 💥Expertise
--Leading Skills
--Teamwork Skills
--Communication Skills
+
+- Leading Skills
+- Teamwork Skills
+- Communication Skills
 
 **🎓Awards & Honor**
 
