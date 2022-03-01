@@ -14,7 +14,7 @@ achieve excellence in my career through constant struggle and willingness. I mak
 - 💣 Gamer - PUBG 🔫 
 - 🎓 University Student - BSCS Holder 
 - 💻 Head Cr at Department of CS & IT 
-- 👨‍💻 Lead Project - Ontology integration Knowledge Graph Recipe 
+- 👨‍💻 Lead Project - Ontology integration & Knowledge Graph Recipe 
 - 💬 How to reach me - 0347-5948011 
 - 💥 Fun Fact - Don't Disturb me - TikTok Only
 - 🎂 Date of Birth - October 05, 1998
@@ -39,7 +39,7 @@ achieve excellence in my career through constant struggle and willingness. I mak
         
         BS ComputerScience    3.31 cgpa - 1st Division
     
-            Recepie Project  | ontology creation, extraction, visualization
+            Recipe Project  | ontology creation, extraction, visualization
 
 - Army Public School and College, Sargodha Cantt.   2015 - 2017   
         
