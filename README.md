@@ -19,6 +19,20 @@
 - 👨‍💻 Lead Project - Ontology integration Knowledge Graph Recipe 
 - 💬 How to reach me - 0347-5948011 
 - 💥 Fun Fact - Don't Disturb me - TikTok Only
+- 🎂 Date of Birth - October 05, 1998
+- 🌐 Languages:
+        Native: Urdu
+        Fluent in English
+
+**Reach Me**
+
+- Address:
+        Abdullah Town, Aslam Colony, 71 chak shumali, Street 01
+- Phone No.
+        +92 347 594 8011
+- Email:
+        alizeeshanhaider21@gmail.com
+
 
 **📙Educational Background**
 
