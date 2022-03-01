@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Goal oriented Instituition
 - 📫 How to reach me ... alizeeshanhaider21@gmail.com
 
-**Profile**
+**✍️Profile**
 
 - I am a BSCS holder, coordinating and monitoring CS-based projects. 
 - I have a strong interest in conceptual and analytical thinking. I can teach all Computer science subjects. 
@@ -25,7 +25,7 @@
         Native: Urdu
         Fluent in English
 
-**Reach Me**
+**☑️Reach Me**
 
 - Address:
         Abdullah Town, Aslam Colony, 71 chak shumali, Street 01
