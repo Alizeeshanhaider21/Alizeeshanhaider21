@@ -81,16 +81,16 @@ Teaching Experience
 
 - E-Commerce Websites (Front End)
         - AZ-Shop       
-        - MyStore      
-        - Calligraphy purchased       
-        - Maso_shop     
-        - Landing page for Pizza shop
-        - Landing page for Airplane company       
-        - Contact Forms              
-        - Parcel/Luggage management System        
-        - Signup/Login Pages     
-        - Hospital Management System           
+        - MyStore         
+        - Maso_shop       
+        - Contact Forms                    
+        - Signup/Login Pages
+        - Calligraphy purchased      
+        - Hospital Management System
+        - Landing page for Pizza shop            
         - WordPress E-commerce Websites
+        - Parcel/Luggage management System 
+        - Landing page for Airplane company  
 
 **👨‍💻Skill Sets**
 
@@ -129,6 +129,7 @@ Teaching Experience
 - Member of Event Management Society- University of Sargodha                    2013-2017                                
 
 - Recipe Ingredient Ontology
+
         - Created and developed a perfect ontology for Chef's recipes and especially how they are represented  on the web.
 
 **Interest**
