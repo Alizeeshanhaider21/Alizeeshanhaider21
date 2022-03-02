@@ -147,19 +147,19 @@ Teaching Experience
 
 **🕴️Good One's About Me**
 
-Quick Learner
+- Quick Learner
 
-Hard Working
+- Hard Working
 
-Smart Worker
+- Smart Worker
 
-Time Manager
+- Time Manager
 
-Good Planner
+- Good Planner
 
-Believe in good work
+- Believe in good work
 
-Having capacity to deal complex task in a short time with efficiently
+- Having capacity to deal complex task in a short time with efficiently
 
 
 **🎍Interest**
