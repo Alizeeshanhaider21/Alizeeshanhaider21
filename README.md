@@ -105,7 +105,7 @@ Teaching Experience
      - Parcel/Luggage management System 
      - Landing page for Airplane company  
 
-**👨‍💻 Core Skill Sets Focus Fields**
+**👨‍💻Core Skill Sets Focus Fields ⬇️⬇️**
 
 **📔Microsoft Office**
 
