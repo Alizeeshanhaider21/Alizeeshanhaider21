@@ -35,17 +35,17 @@ achieve excellence in my career through constant struggle and willingness. I mak
 
 **📙Educational Background**
 
-- University of Sargodha, Sargodha    2018 - 2022   
+- University of Sargodha, Sargodha  ||  2018 - 2022   
         
         BS ComputerScience    3.31 cgpa - 1st Division
     
             Recipe Project  | ontology creation, extraction, visualization
 
-- Army Public School and College, Sargodha Cantt.   2015 - 2017   
+- Army Public School and College, Sargodha Cantt.  ||  2015 - 2017   
         
         FSC | Pre-Engineering   84% - 1st Division
 
-- Army Public School and College, Chunian Cantt. (Kasur)    2013 - 2015   
+- Army Public School and College, Chunian Cantt. (Kasur)  ||  2013 - 2015   
         
         Matric ComputerScience    86% - 1st Division
 
@@ -137,9 +137,9 @@ Teaching Experience
 
 **🎓Activities | Awards & Honor**
 
-- Head CR at Department of CS & IT - University of Sargodha                     2018-2022                                                           
+- Head CR at Department of CS & IT - University of Sargodha  ||  2018-2022                                                           
 
-- Member of Event Management Society- University of Sargodha                    2013-2017                                
+- Member of Event Management Society- University of Sargodha  || 2013-2017                                
 
 - Recipe Ingredient Ontology
 
