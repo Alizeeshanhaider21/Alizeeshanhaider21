@@ -105,9 +105,9 @@ Teaching Experience
      - Parcel/Luggage management System 
      - Landing page for Airplane company  
 
-**👨‍💻Skill Sets**
+**👨‍💻Skill Sets Focus**
 
-📔Microsoft Office
+**📔Microsoft Office**
 
 - Word
 - Excel
@@ -115,7 +115,7 @@ Teaching Experience
 - Access
 - OneNote
 
-💾Programming
+**💾Programming**
 
 - C++
 - SQL | PHP
@@ -123,13 +123,13 @@ Teaching Experience
 - CSS3 | JavaScript
 - Bootstrap
 
-👨‍💻Web &Multimedia
+**👨‍💻Web &Multimedia**
 
 - Website Design
 - WordPress | PS
 - E-Commerce
 
-💥Expertise
+**💥Expertise**
 
 - Leading Skills
 - Teamwork Skills
