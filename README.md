@@ -145,6 +145,23 @@ Teaching Experience
 
         - Created and developed a perfect ontology for Chef's recipes and especially how they are represented  on the web.
 
+**🕴️Good One's About Me**
+
+Quick Learner
+
+Hard Working
+
+Smart Worker
+
+Time Manager
+
+Good Planner
+
+Believe in good work
+
+Having capacity to deal complex task in a short time with efficiently
+
+
 **🎍Interest**
 
 - Reading
