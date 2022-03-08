@@ -37,7 +37,7 @@ achieve excellence in my career through constant struggle and willingness. I mak
 
 - University of Sargodha, Sargodha  ||  2018 - 2022   
         
-        BS ComputerScience    3.31 cgpa - 1st Division
+        BS Computer_Science    3.31 cgpa - 1st Division
     
             Recipe Project  | ontology creation, extraction, visualization
 
@@ -54,7 +54,7 @@ achieve excellence in my career through constant struggle and willingness. I mak
 Teaching Experience
 7+ years of experience 
 
-    ComputerScience, Maths, Chemistry & Physics
+    Computer_Science, Maths, Chemistry & Physics
 
 **🗞Projects Experience**
 
