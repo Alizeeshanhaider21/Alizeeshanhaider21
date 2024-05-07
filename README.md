@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @Alizeeshanhaider21
+- 👋 Hi, I’m Ali Zeeshan Haider
 - 👀 I’m interested in ... Learnings
-- 🌱 I’m currently learning ... Penetrating Testing
+- 🌱 I’m currently learning ... Python Backend Programming
 - 💞️ I’m looking to collaborate on ... Goal oriented Instituition
-- 📫 How to reach me ... alizeeshanhaider21@gmail.com
+- 📫 How to reach me ... alizeeshanhaider22@gmail.com
 
 **✍️Profile**
 
-- I am a BSCS holder, coordinating and monitoring CS-based projects. I have a strong interest in conceptual and analytical thinking. I can teach all Computer science subjects. My aim is to provide my students with exactly what they want and guide them throughout the process.  So, I want to join a professional dynamic team of goal-oriented people and
-achieve excellence in my career through constant struggle and willingness. I make sure to contribute honesty and hard work to the institution.
+- I am a BSCS holder, coordinating and monitoring CS-based projects. I have a strong interest in conceptual and analytical thinking. I have high grip on web Development. My aim is to do the best in all works/projects and play a vital role in organiztion.  So, I want to join a professional dynamic team of goal-oriented people and
+achieve excellence in my career through constant struggle and willingness. I make sure to contribute honesty and hard work to the Organization.
 
 - 📱 Currently working on _ Youtube Channel | Tuitions
 - 🔔 Channel - https://www.youtube.com/channel/UCj30hgxA4h-a1URQ_vwrBIw 
@@ -16,7 +16,7 @@ achieve excellence in my career through constant struggle and willingness. I mak
 - 💻 Head Cr at Department of CS & IT 
 - 👨‍💻 Lead Project - Ontology integration & Knowledge Graph Recipe 
 - 💬 How to reach me - 0347-5948011 
-- 💥 Fun Fact - Don't Disturb me - TikTok Only
+- 💥 Fun Fact - Don't Disturb me - TikTok User
 - 🎂 Date of Birth - October 05, 1998
 - 🌐 Languages:
         
@@ -30,7 +30,7 @@ achieve excellence in my career through constant struggle and willingness. I mak
 - Phone No.
         +92 347 594 8011
 - Email:
-        alizeeshanhaider21@gmail.com
+        alizeeshanhaider22@gmail.com
 
 
 **📙Educational Background**
@@ -137,9 +137,9 @@ Teaching Experience
 
 **🎓Activities | Awards & Honor**
 
-- Head CR at Department of CS & IT - University of Sargodha  ||  2018-2022                                                           
+- Head CR at Department of CS & IT - University of Sargodha  ||  2021-2022                                                           
 
-- Member of Event Management Society- University of Sargodha  || 2013-2017                                
+- Member of Event Management Society- University of Sargodha  || 2021-2022                               
 
 - Recipe Ingredient Ontology
 
