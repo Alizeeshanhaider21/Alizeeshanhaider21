@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Ali Zeeshan Haider
+- 🎂 Date of Birth - October 05, 1998
 - 👀 I’m interested in ... Learnings
 - 🌱 I’m currently Doing ... Python Backend Programming
 - 💞️ I’m looking to collaborate on ... Goal oriented Instituition
-- 📫 How to reach me ... alizeeshanhaider22@gmail.com
+- 📫 How to reach me ... alizeeshanhaider22@gmail.com | 0347-5948011 
 
 **✍️Profile**
 
@@ -10,13 +11,11 @@
 achieve excellence in my career through constant struggle and willingness. I make sure to contribute honesty and hard work to the Organization.
 
 - 📱 Currently working in Securetech cards | Junior Software Engineer
-- 💣 Gamer - PUBG 🔫 
-- 🎓 University Student - BSCS Holder 
-- 💻 Head Cr at Department of CS & IT 
+- 🎓 University Student - BSCS Holder
+         - 💻 Head Cr at Department of CS & IT
 - 👨‍💻 Lead Project - Ontology integration & Knowledge Graph Recipe 
-- 💬 How to reach me - 0347-5948011 
+- 💣 Gamer - PUBG 🔫 
 - 💥 Fun Fact - Don't Disturb me - TikTok User
-- 🎂 Date of Birth - October 05, 1998
 - 🌐 Languages:
         
         Native: Urdu
@@ -30,7 +29,6 @@ achieve excellence in my career through constant struggle and willingness. I mak
         +92 347 594 8011
 - Email:
         alizeeshanhaider22@gmail.com
-
 
 **📙Educational Background**
 
