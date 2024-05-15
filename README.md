@@ -94,7 +94,7 @@ Teaching Experience
 
 **Web Design and Development**
 
-- E-Commerce Websites (Front End)
+- E-Commerce Websites (Full Stack)
      - AZ-Shop       
      - MyStore         
      - Maso_shop       
@@ -111,75 +111,41 @@ Teaching Experience
 
 **📔Microsoft Office**
 
-- Word
-- Excel
-- PowerPoint
-- Access
-- OneNote
+- Word | Excel | PowerPoint | Access 
 
 **💾Programming**
 
-- C++
-- SQL | PHP
-- HTML5 | JQuery
-- CSS3 | JavaScript
-- Bootstrap
+- Python | C++ | SQL | PHP | HTML5 | CSS3 | JavaScript | JQuery | Bootstrap
 
-**👨‍💻Web &Multimedia**
+**👨‍💻Web & Multimedia**
 
-- Website Design
-- WordPress | PS
-- E-Commerce
+- Website Design | WordPress | PS | E-Commerce
 
 **💥Expertise**
 
-- Leading Skills
-- Teamwork Skills
-- Communication Skills
+- Leading Skills | Teamwork Skills | Communication Skills
 
 **🎓Activities | Awards & Honor**
+- Recipe Ingredient Ontology
+
+        - Created and developed a perfect ontology for Chef's recipes and especially how they are represented  on the web.
 
 - Head CR at Department of CS & IT - University of Sargodha  ||  2021-2022                                                           
 
 - Member of Event Management Society- University of Sargodha  || 2021-2022                               
 
-- Recipe Ingredient Ontology
-
-        - Created and developed a perfect ontology for Chef's recipes and especially how they are represented  on the web.
-
 **🕴️Good One's About Me**
 
-- Quick Learner
-
-- Hard Working
-
-- Smart Worker
-
-- Time Manager
-
-- Good Planner
-
-- Believe in good work
-
-- Having capacity to deal complex task in a short time with efficiently
+- Quick Learner | Hard Worker | Smart Worker | Time Manager | Good Planner | Believe in good work | Having capacity to deal complex task in a short time with efficiently
 
 
 **🎍Interest**
 
-- Reading
-- Playing pc games
-- Planting
-- Volunteering in university events
+- Reading | Learning | Analyzing
+
 
 **🏏Sports**
 - Cricket Player🥇
-
-
-
-
-
-
-
 
 <!---
 Alizeeshanhaider21/Alizeeshanhaider21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
