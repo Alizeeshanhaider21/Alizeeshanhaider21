@@ -9,8 +9,7 @@
 - I am a BSCS holder, coordinating and monitoring CS-based projects. I have a strong interest in conceptual and analytical thinking. I have high grip on web Development. My aim is to do the best in all works/projects and play a vital role in organiztion.  So, I want to join a professional dynamic team of goal-oriented people and
 achieve excellence in my career through constant struggle and willingness. I make sure to contribute honesty and hard work to the Organization.
 
-- 📱 Currently working on _ Youtube Channel | Tuitions
-- 🔔 Channel - https://www.youtube.com/channel/UCj30hgxA4h-a1URQ_vwrBIw 
+- 📱 Currently working in Securetech cards | Junior Software Engineer
 - 💣 Gamer - PUBG 🔫 
 - 🎓 University Student - BSCS Holder 
 - 💻 Head Cr at Department of CS & IT 
@@ -51,9 +50,12 @@ achieve excellence in my career through constant struggle and willingness. I mak
 
 **💻Work History**
 
+**Junior Software Engineer**
+Securetech cards March 2023- Present
+
+
 Teaching Experience
 7+ years of experience 
-
     Computer_Science, Maths, Chemistry & Physics
 
 **🗞Projects Experience**
