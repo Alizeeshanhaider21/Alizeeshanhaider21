@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Zeeshan Haider
 - 👀 I’m interested in ... Learnings
-- 🌱 I’m currently learning ... Python Backend Programming
+- 🌱 I’m currently Doing ... Python Backend Programming
 - 💞️ I’m looking to collaborate on ... Goal oriented Instituition
 - 📫 How to reach me ... alizeeshanhaider22@gmail.com
 
